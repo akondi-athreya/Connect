@@ -9,6 +9,10 @@
 
 ---
 
+> **Project Scope & Status:** Due to the comprehensive scale of the **Connect** ecosystem, this repository serves as a conceptual and architectural showcase. While the primary codebase is maintained privately to manage its complexity, our commitment to this vision is unwavering. We are continuously evolving the platform, integrating advanced features to deliver a truly robust and life-saving "Technological Shield."
+
+---
+
 ## The Vision: From Three Ideas to One Mission
 
 **Connect** is not just a codebase; it is a solution born from observation and empathy. Our team of six researchers began with three distinct challenges: the stigma around blood donation, the growing safety concerns for women, and the alarming delays in emergency medical response.
