@@ -2,7 +2,6 @@
 
 > **"In a world where food and entertainment arrive with a single tap, why should life-saving help wait in a queue?"**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![React Native](https://img.shields.io/badge/React%20Native-Expo-blue.svg)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
