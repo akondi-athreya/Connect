@@ -1,4 +1,4 @@
-# Connect: A Technological Shield for Human Life
+# Connect
 
 > **"In a world where food and entertainment arrive with a single tap, why should life-saving help wait in a queue?"**
 
