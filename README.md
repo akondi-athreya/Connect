@@ -1,7 +1,8 @@
-# Connect
+# Connect: A Technological Shield for Human Life
 
 > **"In a world where food and entertainment arrive with a single tap, why should life-saving help wait in a queue?"**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![React Native](https://img.shields.io/badge/React%20Native-Expo-blue.svg)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
@@ -24,6 +25,18 @@ We chose the name **Connect** because it represents the dual heartbeat of our mi
 2.  **Connecting People:** At its core, this project is about human solidarity. Whether it's a donor reaching a requester or a welfare team reaching a woman in distress, we believe that when people are connected, lives are saved.
 
 Over three intense months, we developed a microservices-driven ecosystem that bridges the gap between those who need help and those who can provide it.
+
+---
+
+## 📱 App Showcase
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/main-home-screen.jpg" height="400"><br>Home Screen | <img src="docs/screenshots/drawer-navigation.jpg" height="400"><br>Drawer Navigation | <img src="docs/screenshots/blood-connect-main.jpg" height="400"><br>Blood Connect |
+| <img src="docs/screenshots/blood-request-cards.jpg" height="400"><br>Blood Requests | <img src="docs/screenshots/blood-map.jpg" height="400"><br>Donor Map | <img src="docs/screenshots/blood-request-form.jpg" height="400"><br>Request Form |
+| <img src="docs/screenshots/disha-main.jpg" height="400"><br>Disha (Safety) | <img src="docs/screenshots/disha-location-sharing.jpg" height="400"><br>Location Sharing | <img src="docs/screenshots/ambulance-main.jpg" height="400"><br>Ambulance Service |
+| <img src="docs/screenshots/ambulance-booking.jpg" height="400"><br>Ambulance Booking | <img src="docs/screenshots/how-to-use-blood-connect.jpg" height="400"><br>Tutorial: Blood | <img src="docs/screenshots/how-to-use-disha.jpg" height="400"><br>Tutorial: Disha |
+| <img src="docs/screenshots/how-to-use-ambulance-service.jpg" height="400"><br>Tutorial: Ambulance | | |
 
 ---
 
